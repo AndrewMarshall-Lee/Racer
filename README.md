@@ -8,7 +8,9 @@ If you want to edit the tracks you can.
 Just write the curve you want and distance for a section of track like this:
 
 Curve Distance
+
 0.0f 100.0f 
+
 1.0f 200.0f
 
 
